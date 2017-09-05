@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MotoQuiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pytania">PytaniaActivity</string>
+    <string name="title_activity_wyniki">WynikiActivity</string>
+    <string name="pusty" />
+    <string name="zapisz">Zapisz swój wynik ! Podaj imię: </string>
+    <string name="title_activity_tabela_wyniki">TabelaWynikiActivity</string>
+    <string name="info">O programie</string>
+    <color name="czerwony">#FF0000</color>
+    <color name="czarny">#070000</color>
+
+</resources>
